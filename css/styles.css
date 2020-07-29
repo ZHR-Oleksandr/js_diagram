@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0;
+  margin-top: 40px;
+}
+.diagramCanvas {
+  background-color: #f3e6acd0;
+  margin: 0 auto;
+  position: relative;
+  border-left: 4px solid rgb(107, 105, 112);
+  border-bottom: 4px solid rgb(107, 105, 112);
+}
